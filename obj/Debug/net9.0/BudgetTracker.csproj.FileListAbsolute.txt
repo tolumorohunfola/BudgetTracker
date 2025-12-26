@@ -1,0 +1,5 @@
+C:\Users\taemo\OneDrive\All coding\Code First Girls\Module Exercises\BudgetTracker\obj\Debug\net9.0\BudgetTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taemo\OneDrive\All coding\Code First Girls\Module Exercises\BudgetTracker\obj\Debug\net9.0\BudgetTracker.AssemblyInfoInputs.cache
+C:\Users\taemo\OneDrive\All coding\Code First Girls\Module Exercises\BudgetTracker\obj\Debug\net9.0\BudgetTracker.AssemblyInfo.cs
+C:\Users\taemo\OneDrive\All coding\Code First Girls\Module Exercises\BudgetTracker\obj\Debug\net9.0\BudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\taemo\OneDrive\All coding\Code First Girls\Module Exercises\BudgetTracker\obj\Debug\net9.0\BudgetTracker.sourcelink.json

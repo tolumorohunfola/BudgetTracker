@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "GyFQ5YYikDA=",
+  "dgSpecHash": "bwPHR0oChRE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\panda\\OneDrive\\All coding\\Code First Girls\\Module Exercises\\BudgetTracker\\BudgetTracker.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\taemo\\OneDrive\\All coding\\Code First Girls\\Module Exercises\\BudgetTracker\\BudgetTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taemo\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\taemo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\taemo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\taemo\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\9.0.11\\microsoft.netcore.app.host.win-arm64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
